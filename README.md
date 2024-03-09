@@ -7,8 +7,5 @@ The series first generates a high-level layout of the level using PLG, which is 
 
 ![Enemy Tree](/2.jpg)
 
-## Screenshots ##
-<video width="320" height="240" controls>
-  <source src="info\Rouge_Line-Demo.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+## Demo ##
+[![Demo Video](https://img.youtube.com/vi/D5evne2MM8E/0.jpg)](https://www.youtube.com/watch?v=D5evne2MM8E)
