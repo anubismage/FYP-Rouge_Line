@@ -7,5 +7,5 @@ The series first generates a high-level layout of the level using PLG, which is 
 
 ![Enemy Tree](/info/2.jpg)
 
-## Demo ##
+## Demo Video##
 [![Demo Video](https://img.youtube.com/vi/D5evne2MM8E/0.jpg)](https://www.youtube.com/watch?v=D5evne2MM8E)
